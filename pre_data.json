@@ -1,0 +1,2494 @@
+[
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\106-余.jpg",
+        "text_data": "曹性射瞎夏侯惇"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\106-刘.jpg",
+        "text_data": "夏侯惇拔矢啖睛"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\106-叶.jpg",
+        "text_data": "曹性射瞎夏侯惇"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\106-周.jpg",
+        "text_data": "夏侯惇拔矢啖睛"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\106-朱.jpg",
+        "text_data": "夏侯惇拔矢啖睛"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\106-李.jpg",
+        "text_data": "夏侯惇拔矢啖睛"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\106-笠.jpg",
+        "text_data": "夏侯惇拔矢啖睛"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\106-郑.jpg",
+        "text_data": "曹性射瞎夏侯惇"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\106.jpg",
+        "text_data": "夏侯惇拔矢啖睛"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\109-朱.jpg",
+        "text_data": "吕布替女力战"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\11-余.jpg",
+        "text_data": "张飞入馆擒捉督邮，张飞鞭督邮于街市"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\11-叶.jpg",
+        "text_data": "张飞入馆擒捉督邮，飞鞭督邮在街市"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\11-周.jpg",
+        "text_data": "安喜张飞鞭督邮"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\11.jpg",
+        "text_data": "张翼德怒鞭督邮，刘备仁慈救督邮"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\110-余.jpg",
+        "text_data": "押布宫等见曹操"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\110-刘.jpg",
+        "text_data": "布骂玄德大耳儿"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\110-叶.jpg",
+        "text_data": "曹操斩吕布陈宫"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\110-周.jpg",
+        "text_data": "吕布败走下邳城"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\110-朱.jpg",
+        "text_data": "操杀布白门楼"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\110-李.jpg",
+        "text_data": "白门楼曹操斩吕布"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\110-笠.jpg",
+        "text_data": "白门楼曹操斩吕布"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\110-荣.jpg",
+        "text_data": "白门楼曹操斩吕布"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\110-郑.jpg",
+        "text_data": "布骂备大耳儿"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\110.jpg",
+        "text_data": "白门楼吕布殒命"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\113-余1.jpg",
+        "text_data": "帝与操备田猎，帝命玄德射兔中箭"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\113-余2.jpg",
+        "text_data": "帝与操备田猎，帝命玄德射兔中箭"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\113-刘.jpg",
+        "text_data": "帝命玄德射兔中箭"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\113-叶.jpg",
+        "text_data": "帝同曹操玄德田猎，帝令玄德射兔中箭"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\113-叶1.jpg",
+        "text_data": "帝同曹操玄德田猎，帝令玄德射兔中箭"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\113-周.jpg",
+        "text_data": "孟德许田射鹿"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\113-忠.jpg",
+        "text_data": "曹操许田射猎"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\113-朱.jpg",
+        "text_data": "曹操许田射猎"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\113-李.jpg",
+        "text_data": "曹孟德许田射猎"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\113-笠.jpg",
+        "text_data": "曹孟德许田射猎"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\113-郑.jpg",
+        "text_data": "帝命玄德射兔"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\113.jpg",
+        "text_data": "曹阿瞒许田打围"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\114-刘.jpg",
+        "text_data": "董承密受衣带诏"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\114-叶.jpg",
+        "text_data": "帝与董承看高祖画像"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\114-周.jpg",
+        "text_data": "董承密受衣带诏"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\114-忠.jpg",
+        "text_data": "帝宣董承入宫"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\114-朱.jpg",
+        "text_data": "帝赐董承王带"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\114-李.jpg",
+        "text_data": "董承密受衣带诏"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\114-笠.jpg",
+        "text_data": "董承密受衣带诏"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\114-荣.jpg",
+        "text_data": "帝引董承登阁观*"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\114-郑.jpg",
+        "text_data": "帝与董承观高祖图"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\114.jpg",
+        "text_data": "董国舅内阁授诏"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\119-刘.jpg",
+        "text_data": "玄德失匙箸诈惧雷"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\119-叶.jpg",
+        "text_data": "曹操请玄德作青梅酌酒"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\119-周.jpg",
+        "text_data": "青梅煮酒论英雄"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\119-忠.jpg",
+        "text_data": "操与备论英雄"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\119-李.jpg",
+        "text_data": "青梅煮酒论英雄"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\119-笠.jpg",
+        "text_data": "青梅煮酒论英雄"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\119-荣.jpg",
+        "text_data": "曹操玄德定论英雄"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\119-郑.jpg",
+        "text_data": "操与玄德青梅酌会，玄德失匙箸诈惧雷"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\119-郑1.jpg",
+        "text_data": "操与玄德青梅酌会，玄德失匙箸诈惧雷"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\119.jpg",
+        "text_data": "煮酒论英雄"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\12-余.jpg",
+        "text_data": "张飞入馆擒捉督邮，张飞鞭督邮于街市"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\12-刘.jpg",
+        "text_data": "张飞柳条鞭打督邮"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\12-叶.jpg",
+        "text_data": "张飞入馆擒捉督邮，飞鞭督邮在街市"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\12-朱.jpg",
+        "text_data": "张飞鞭打督邮"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\12-李.jpg",
+        "text_data": "安喜张飞鞭督邮"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\12-种.jpg",
+        "text_data": "张飞入馆怒打督邮"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\12-笠.jpg",
+        "text_data": "安喜张飞鞭督邮"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\12-荣.jpg",
+        "text_data": "张飞绑缚督邮鞭打"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\12-郑.jpg",
+        "text_data": "张飞怒打督邮"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\12.jpg",
+        "text_data": "张翼德怒鞭督邮，刘备仁慈救督邮"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\123-余.jpg",
+        "text_data": "云长斩车胄于马下"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\123-刘.jpg",
+        "text_data": "云长斩车胄于马下"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\123-叶.jpg",
+        "text_data": "关羽斩车胄袁术败走"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\123-周.jpg",
+        "text_data": "关云长袭斩车胄"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\123-朱.jpg",
+        "text_data": "关云长袭车胄"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\123-李.jpg",
+        "text_data": "关云长袭斩车胄"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\123-笠.jpg",
+        "text_data": "关云长袭斩车胄"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\123-荣.jpg",
+        "text_data": "云长城下刀斩车胄"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\123-郑.jpg",
+        "text_data": "云长斩车胄于马下"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\130-余.jpg",
+        "text_data": "祢衡裸体挝鼓骂曹操"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\130-刘.jpg",
+        "text_data": "祢衡挝鼓骂曹操"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\130-叶.jpg",
+        "text_data": "曹令祢衡裸体挝鼓"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\130-周.jpg",
+        "text_data": "祢衡裸体骂曹操"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\130-康.jpg",
+        "text_data": "祢衡裸衣骂曹操"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\130-朱.jpg",
+        "text_data": "操令祢衡击鼓"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\130-李.jpg",
+        "text_data": "祢衡裸衣骂曹操"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\130-笠.jpg",
+        "text_data": "祢衡裸衣骂曹操"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\130-荣.jpg",
+        "text_data": "祢衡裸体击鼓骂操"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\130-郑.jpg",
+        "text_data": "祢衡裸体挝鼓骂操"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\131-余.jpg",
+        "text_data": "董承怒打庆童四十"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\131-刘.jpg",
+        "text_data": "董承发怒打庆童"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\131-郑.jpg",
+        "text_data": "董承怒打庆童四十"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\134-余.jpg",
+        "text_data": "曹操拷问吉平"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\134-刘.jpg",
+        "text_data": "曹操勘问吉平刑"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\134-叶1.jpg",
+        "text_data": "曹拷吉平询问谁谋，三拷吉平痛*不招"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\134-叶2.jpg",
+        "text_data": "曹拷吉平询问谁谋，三拷吉平痛*不招"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\134-忠.jpg",
+        "text_data": "吉平撞阶而亡"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\134-朱.jpg",
+        "text_data": "曹操三勘吉平"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\134-李.jpg",
+        "text_data": "曹孟德三勘吉平"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\134-笠.jpg",
+        "text_data": "曹孟德三勘吉平"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\134-荣.jpg",
+        "text_data": "操对董承勘问吉平"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\134-郑.jpg",
+        "text_data": "曹操拷问吉平"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\135-余.jpg",
+        "text_data": "玄德败走投袁绍"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\135-刘.jpg",
+        "text_data": "玄德败走投袁绍"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\135-叶.jpg",
+        "text_data": "玄德败走投*袁绍"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\135-周.jpg",
+        "text_data": "玄德匹马奔冀州"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\135-忠.jpg",
+        "text_data": "玄德归投袁绍"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\135-朱.jpg",
+        "text_data": "刘备败走冀州"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\135-李.jpg",
+        "text_data": "玄德匹马奔冀州"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\135-笠.jpg",
+        "text_data": "玄德匹马奔冀州"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\135-荣.jpg",
+        "text_data": "玄德奔冀州见袁绍"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\135-郑.jpg",
+        "text_data": "刘玄德走投见袁绍"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\136-余.jpg",
+        "text_data": "张辽说关公"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\136-刘.jpg",
+        "text_data": "张辽下说关云长"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\136-北.jpg",
+        "text_data": "张辽以言词说关羽"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\136-周.jpg",
+        "text_data": "张辽义说关云长"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\136-忠.jpg",
+        "text_data": "张辽义说云长"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\136-朱.jpg",
+        "text_data": "张辽说关羽降曹"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\136-李.jpg",
+        "text_data": "张辽义说关云长"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\136-笠.jpg",
+        "text_data": "张辽义说关云长"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\136-荣.jpg",
+        "text_data": "张辽上山义说关羽"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\136-诚.jpg",
+        "text_data": "张辽义说云长"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\136-郑.jpg",
+        "text_data": "张辽说动关公"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\14-余1.jpg",
+        "text_data": "曹操言进不可妄作，何进陈琳曹操议事"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\14-余2.jpg",
+        "text_data": "曹操言进不可妄作，何进陈琳曹操议事"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\14-刘.jpg",
+        "text_data": "何进召琳操议论"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\14-叶.jpg",
+        "text_data": "何进陈琳曹操议事"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\14-周.jpg",
+        "text_data": "何进谋杀十常侍"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\14-朱.jpg",
+        "text_data": "何进谋十常侍"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\14-李.jpg",
+        "text_data": "何进谋杀十常侍"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\14-种.jpg",
+        "text_data": "曹操与进议诛宦官，何进陈琳曹操议论"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\14-种1.jpg",
+        "text_data": "曹操与进议诛宦官，何进陈琳曹操议论"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\14-笠.jpg",
+        "text_data": "何进谋杀十常侍"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\14-荣.jpg",
+        "text_data": "袁绍劝进杀十常侍"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\14-郑1.jpg",
+        "text_data": "何进议事曹操进计，何进陈琳曹操议论"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\14-郑2.jpg",
+        "text_data": "何进议事曹操进计，何进陈琳曹操议论"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\14.jpg",
+        "text_data": "何国舅谋诛宦竖"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\143-余.jpg",
+        "text_data": "云长砍颜良于马下"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\143-刘.jpg",
+        "text_data": "云长单骑刺颜良"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\143-北.jpg",
+        "text_data": "关云长匹马刺颜良"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\143-周.jpg",
+        "text_data": "云长策马刺颜良"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\143-忠.jpg",
+        "text_data": "云长刺死颜良"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\143-朱.jpg",
+        "text_data": "云长斩颜良"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\143-李.jpg",
+        "text_data": "云长策马刺颜良"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\143-笠.jpg",
+        "text_data": "云长策马刺颜良"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\143-荣.jpg",
+        "text_data": "关云长匹马刺颜良"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\143-诚.jpg",
+        "text_data": "云长刺死颜良"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\143-郑.jpg",
+        "text_data": "云长砍颜良于马下"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\146-余.jpg",
+        "text_data": "云长斩文丑于马下"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\146-刘.jpg",
+        "text_data": "云长斩颜良落马"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\146-周.jpg",
+        "text_data": "云长延津诛文丑"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\146-忠.jpg",
+        "text_data": "关云长诛文丑"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\146-朱.jpg",
+        "text_data": "云长延津诛文丑"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\146-李.jpg",
+        "text_data": "云长延津诛文丑"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\146-笠.jpg",
+        "text_data": "云长延津诛文丑"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\146-荣.jpg",
+        "text_data": "关云长上阵诛文丑"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\146-郑.jpg",
+        "text_data": "云长斩文丑于马下"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\151-周.jpg",
+        "text_data": "关云长挂印封金"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\151-朱.jpg",
+        "text_data": "关云长封库挂印"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\151-李.jpg",
+        "text_data": "关云长挂印封金"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\151-笠.jpg",
+        "text_data": "关云长封金挂印"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\151-诚.jpg",
+        "text_data": "云长封金挂印"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\151.jpg",
+        "text_data": "关公封金挂印"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\153-余.jpg",
+        "text_data": "操亲往与关羽践行"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\153-刘1.jpg",
+        "text_data": "张辽赶羽称践行，许褚进袍刀挑去"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\153-刘2.jpg",
+        "text_data": "张辽赶羽称践行，许褚进袍刀挑去"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\153-周.jpg",
+        "text_data": "关云长独行千里"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\153-康.jpg",
+        "text_data": "关云长独行千里"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\153-忠.jpg",
+        "text_data": "张辽许褚进袍"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\153-李.jpg",
+        "text_data": "关云长独行千里"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\153-笠.jpg",
+        "text_data": "关云长独行千里"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\153-荣.jpg",
+        "text_data": "曹操践行赠袍关羽"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\153-郑.jpg",
+        "text_data": "操送金羽不受"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\167-余.jpg",
+        "text_data": "羽斩蔡阳死于马下"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\167-刘.jpg",
+        "text_data": "关公斩蔡阳落马"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\167-北.jpg",
+        "text_data": "云长挝鼓怒斩蔡阳"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\167-周.jpg",
+        "text_data": "云长擂鼓斩蔡阳"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\167-忠.jpg",
+        "text_data": "关云长斩蔡阳"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\167-朱.jpg",
+        "text_data": "云长挝鼓斩蔡阳"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\167-李.jpg",
+        "text_data": "云长擂鼓斩蔡阳"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\167-笠.jpg",
+        "text_data": "云长擂鼓斩蔡阳"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\167-荣.jpg",
+        "text_data": "关云长挝鼓斩蔡阳"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\167-郑.jpg",
+        "text_data": "关公斩蔡阳于马下"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\168-周.jpg",
+        "text_data": "刘玄德古城聚义"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\168-李.jpg",
+        "text_data": "刘玄德古城聚义"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\168-笠.jpg",
+        "text_data": "刘玄德古城聚义"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\168-荣.jpg",
+        "text_data": "刘关张古城重聚会"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\173-余.jpg",
+        "text_data": "策斩于吉悬首号令"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\173-周.jpg",
+        "text_data": "孙策怒斩于神仙"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\173-朱.jpg",
+        "text_data": "孙策怒斩于吉"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\173-李.jpg",
+        "text_data": "孙策怒斩于神仙"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\173-笠.jpg",
+        "text_data": "孙策怒斩于神仙"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\173-荣.jpg",
+        "text_data": "策斩于吉众官劝免"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\175-余.jpg",
+        "text_data": "孙权执掌江东大事"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\175-周.jpg",
+        "text_data": "孙权领众据江东"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\175-忠.jpg",
+        "text_data": "孙权接印问祖"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\175-李.jpg",
+        "text_data": "孙权领众据江东"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\175-笠.jpg",
+        "text_data": "孙权领众据江东"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\178-余.jpg",
+        "text_data": "乌巢粮草被火尽焚"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\178-刘.jpg",
+        "text_data": "乌巢粮草被火烧"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\178-北.jpg",
+        "text_data": "曹军烧绍乌巢粮草"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\178-周.jpg",
+        "text_data": "曹操乌巢烧粮草"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\178-忠.jpg",
+        "text_data": "曹操令将烧乌巢"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\178-朱.jpg",
+        "text_data": "曹兵火烧乌巢粮"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\178-李.jpg",
+        "text_data": "曹操乌巢烧粮草"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\178-笠.jpg",
+        "text_data": "曹操乌巢烧粮草"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\178-荣.jpg",
+        "text_data": "曹军烧绍乌巢粮草"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\178-郑.jpg",
+        "text_data": "乌巢粮草被获尽烧"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\178.jpg",
+        "text_data": "乌巢烧粮"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\180-刘.jpg",
+        "text_data": "刘表出城迎接玄德"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\180-北.jpg",
+        "text_data": "刘玄德荆州见刘表"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\180-周.jpg",
+        "text_data": "刘玄德败走荆州"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\180-朱.jpg",
+        "text_data": "玄德兵投刘表"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\180-李.jpg",
+        "text_data": "玄德败走荆州"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\180-笠.jpg",
+        "text_data": "玄德败走荆州"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\180-荣.jpg",
+        "text_data": "刘玄德荆州见刘表"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\180-郑.jpg",
+        "text_data": "留校出城迎接玄德"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\180.jpg",
+        "text_data": "刘玄德荆州依刘表"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\190-周.jpg",
+        "text_data": "刘玄德襄阳赴会"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\190-李.jpg",
+        "text_data": "玄德襄阳赴会"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\190-笠.jpg",
+        "text_data": "刘玄德襄阳赴会"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\195-北.jpg",
+        "text_data": "单福狂歌途遇玄德"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\195-周.jpg",
+        "text_data": "玄德新野遇徐庶"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\195-李.jpg",
+        "text_data": "玄德新野遇徐庶"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\195-笠.jpg",
+        "text_data": "玄德新野遇徐庶"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\195-荣.jpg",
+        "text_data": "单福狂歌途遇玄德"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\206-周.jpg",
+        "text_data": "元直走马荐诸葛"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\206-朱1.jpg",
+        "text_data": "庶与玄德言诸葛亮"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\206-朱2.jpg",
+        "text_data": "庶与玄德言诸葛亮"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\206-李.jpg",
+        "text_data": "徐庶走荐诸葛亮"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\206-笠.jpg",
+        "text_data": "徐庶走荐诸葛亮"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\209-李.jpg",
+        "text_data": "刘玄德三顾茅庐"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\209-遗.jpg",
+        "text_data": "无题"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\209-笠.jpg",
+        "text_data": "刘玄德初顾茅庐"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\209.jpg",
+        "text_data": "三请诸葛"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\210-叶.jpg",
+        "text_data": "玄德风雪请孔明"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\210-周.jpg",
+        "text_data": "刘玄德三顾草庐"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\210-李.jpg",
+        "text_data": "玄德风雪请孔明"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\210-笠.jpg",
+        "text_data": "玄德风雪请孔明"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\211-叶.jpg",
+        "text_data": "定三分初出茅庐"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\211-周.jpg",
+        "text_data": "定三分隆中决策"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\211-朱.jpg",
+        "text_data": "孔明指图鼎足三分"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\211-李.jpg",
+        "text_data": "定三分亮出草庐"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\211-笠.jpg",
+        "text_data": "定三分亮出草庐"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\212-叶.jpg",
+        "text_data": "孙权跨江战黄祖"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\212-周.jpg",
+        "text_data": "战长江孙氏报仇"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\212-朱.jpg",
+        "text_data": "孙权水战黄祖大败"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\212-李.jpg",
+        "text_data": "孙权跨江战黄祖"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\212-笠.jpg",
+        "text_data": "孙权跨江战黄祖"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\212-郑.jpg",
+        "text_data": "黄祖水战大败凌操□□□射□"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\220-叶.jpg",
+        "text_data": "孔明遣计救刘琦"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\220-周.jpg",
+        "text_data": "荆州城公子三求计"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\220-朱.jpg",
+        "text_data": "孔明教琦镇守江夏"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\220-李.jpg",
+        "text_data": "孔明遣计救刘琦"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\220-笠.jpg",
+        "text_data": "孔明遣计救刘琦"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\220-郑.jpg",
+        "text_data": "孔明教琮告父命子镇江夏"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\220.jpg",
+        "text_data": "荆州城公子三求计"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\222-叶.jpg",
+        "text_data": "诸葛亮博望烧屯"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\222-周.jpg",
+        "text_data": "博望坡军师初用兵"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\222-朱.jpg",
+        "text_data": "火烧博望魏军大败"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\222-李.jpg",
+        "text_data": "诸葛亮博望烧屯"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\222-笠.jpg",
+        "text_data": "诸葛亮博望烧屯"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\222-郑.jpg",
+        "text_data": "曹兵赶入火阵大败不胜"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\222.jpg",
+        "text_data": "火烧博望山"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\227-周.jpg",
+        "text_data": "蔡夫人议献荆州"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\227-李.jpg",
+        "text_data": "献荆州粲说刘琮"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\227-笠.jpg",
+        "text_data": "献荆州粲说刘琮"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\227.jpg",
+        "text_data": "张蔡议荆州降曹"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\23-余.jpg",
+        "text_data": "董卓立陈留王为帝"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\23-刘.jpg",
+        "text_data": "桌立陈留王为帝"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\23-周.jpg",
+        "text_data": "废汉君董卓弄权"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\23-忠.jpg",
+        "text_data": "董卓立协为帝"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\23-朱.jpg",
+        "text_data": "桌立陈留王为帝"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\23-李.jpg",
+        "text_data": "废汉君董卓弄权"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\23-种.jpg",
+        "text_data": "董卓立陈留王为帝"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\23-笠.jpg",
+        "text_data": "废汉帝董卓弄权"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\23-荣.jpg",
+        "text_data": "董卓立献帝为天子"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\23-诚.jpg",
+        "text_data": "董立陈留为帝"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\23-郑.jpg",
+        "text_data": "董卓立陈留王为帝"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\23-魏.jpg",
+        "text_data": "董卓立献帝为天子"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\23.jpg",
+        "text_data": "废献帝陈留践位"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\230-余.jpg",
+        "text_data": "无题"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\230-遗.jpg",
+        "text_data": "无题"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\230-郑.jpg",
+        "text_data": "张飞保后军民随走"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\230.jpg",
+        "text_data": "刘豫州携民渡江"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\237-叶.jpg",
+        "text_data": "长坂坡赵云救主"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\237-叶1.jpg",
+        "text_data": "长坂坡赵云救主"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\237-周.jpg",
+        "text_data": "赵子龙单骑救主"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\237-朱.jpg",
+        "text_data": "操观赵云勇不可敌"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\237-李.jpg",
+        "text_data": "长坂坡赵云救主"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\237-笠.jpg",
+        "text_data": "长坂坡赵云救主"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\237-郑1.jpg",
+        "text_data": "赵云寻见糜夫人而救太子、赵云抱后主杀出乱军中"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\237-郑2.jpg",
+        "text_data": "赵云寻见糜夫人而救太子、赵云抱后主杀出乱军中"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\237.jpg",
+        "text_data": "赵子龙单骑救主"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\239-余.jpg",
+        "text_data": "长板桥"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\239-遗.jpg",
+        "text_data": "长板桥"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\239-叶.jpg",
+        "text_data": "刘玄德据水断桥"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\239-周.jpg",
+        "text_data": "张翼德大闹长板桥"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\239-朱.jpg",
+        "text_data": "翼德喝退曹操众军"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\239-李.jpg",
+        "text_data": "张翼德据水断桥"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\239-笠.jpg",
+        "text_data": "张翼德据水断桥"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\239-郑.jpg",
+        "text_data": "张飞唬退曹兵百万"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\239.jpg",
+        "text_data": "张翼德大闹长板桥"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\244-叶.jpg",
+        "text_data": "诸葛亮舌战群儒"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\244-周.jpg",
+        "text_data": "诸葛亮舌战群儒"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\244-朱1.jpg",
+        "text_data": "孔明舌辨谋士张昭"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\244-朱2.jpg",
+        "text_data": "孔明舌辨谋士张昭"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\244-李.jpg",
+        "text_data": "诸葛亮舌战群儒"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\244-笠.jpg",
+        "text_data": "诸葛亮舌战群儒"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\244-郑.jpg",
+        "text_data": "张昭挑孔明出世之也"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\244.jpg",
+        "text_data": "诸葛亮舌战群儒"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\246-叶.jpg",
+        "text_data": "诸葛亮智说周瑜"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\246-周.jpg",
+        "text_data": "孔明用智激周瑜"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\246-朱.jpg",
+        "text_data": "孔明说二乔激周瑜"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\246-李.jpg",
+        "text_data": "诸葛亮智说周瑜"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\246-笠.jpg",
+        "text_data": "诸葛亮智说周瑜"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\246-郑.jpg",
+        "text_data": "周郎听诵台赋奋志大怒"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\246.jpg",
+        "text_data": "孔明用计激周公瑾"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\247-周.jpg",
+        "text_data": "孙权决计破曹操"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\247-朱.jpg",
+        "text_data": "吴侯聚文武请周瑜议事"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\247-李.jpg",
+        "text_data": "诸葛亮智激孙权"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\247-郑.jpg",
+        "text_data": "吴侯同将士以议曹操"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\247.jpg",
+        "text_data": "孙权决计破曹军"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\252-叶.jpg",
+        "text_data": "群英会瑜智蒋干"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\252-朱.jpg",
+        "text_data": "瑜同蒋干乐饮大寨"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\252-李.jpg",
+        "text_data": "群英会瑜智蒋干"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\252-笠.jpg",
+        "text_data": "群英会瑜智蒋干"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\252-郑.jpg",
+        "text_data": "周瑜同蒋干乐饮大寨"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\257-叶.jpg",
+        "text_data": "诸葛亮计伏周瑜"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\257-周.jpg",
+        "text_data": "用奇谋孔明借箭"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\257-朱.jpg",
+        "text_data": "曹兵箭射雾中船只"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\257-李.jpg",
+        "text_data": "诸葛亮计伏周瑜"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\257-笠.jpg",
+        "text_data": "诸葛亮计伏周瑜"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\257-郑.jpg",
+        "text_data": "曹兵乱箭射孔明小舟"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\261-叶.jpg",
+        "text_data": "黄盖献计破曹操"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\261-周.jpg",
+        "text_data": "献密计黄盖受刑"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\261-朱.jpg",
+        "text_data": "瑜打黄盖，众官告免"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\261-李.jpg",
+        "text_data": "黄盖献计破曹操"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\261-笠.jpg",
+        "text_data": "黄盖献计破曹操"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\261-郑.jpg",
+        "text_data": "周瑜怒斩黄盖，众劝折打五十"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\262-叶1.jpg",
+        "text_data": "阚泽密献诈降书"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\262-叶2.jpg",
+        "text_data": "阚泽密献诈降书"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\262-周.jpg",
+        "text_data": "阚泽密献诈降书"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\262-朱1.jpg",
+        "text_data": "曹斩泽正言而对"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\262-朱2.jpg",
+        "text_data": "曹斩泽正言而对"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\262-李.jpg",
+        "text_data": "阚泽密献诈降书"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\262-笠.jpg",
+        "text_data": "阚泽密献诈降书"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\262.jpg",
+        "text_data": "阚泽下诈降"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\266-叶.jpg",
+        "text_data": "庞统进献连环计"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\266-周.jpg",
+        "text_data": "庞统巧授连环计"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\266-朱.jpg",
+        "text_data": "干引庞统入见曹操"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\266-李.jpg",
+        "text_data": "庞统进献连环计"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\266-笠.jpg",
+        "text_data": "庞统进献连环计"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\266-郑.jpg",
+        "text_data": "庞统见曹公赐宴同饮"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\272-叶.jpg",
+        "text_data": "七星坛诸葛祭风"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\272-周.jpg",
+        "text_data": "七星坛诸葛祭风"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\272-朱.jpg",
+        "text_data": "孔明登坛祈风破曹"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\272-李.jpg",
+        "text_data": "七星坛诸葛祭风"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\272-笠.jpg",
+        "text_data": "七星坛诸葛祭风"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\272-郑.jpg",
+        "text_data": "孔明登坛祈风助火"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\275-叶.jpg",
+        "text_data": "周公瑾赤壁鏖兵"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\275-周.jpg",
+        "text_data": "三江口周瑜纵火"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\275-朱.jpg",
+        "text_data": "黄盖放火烧曹船只"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\275-李.jpg",
+        "text_data": "周公瑾赤壁鏖兵"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\275-笠.jpg",
+        "text_data": "周公瑾赤壁鏖兵"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\275-郑.jpg",
+        "text_data": "火燎烧舟"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\275.jpg",
+        "text_data": "赤壁鏖兵"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\278-叶1.jpg",
+        "text_data": "关云长义释曹操"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\278-叶2.jpg",
+        "text_data": "关云长义释曹操"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\278-周.jpg",
+        "text_data": "关云长义释曹操"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\278-朱.jpg",
+        "text_data": "礼下望甦饶人活命"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\278-李.jpg",
+        "text_data": "关云长义释曹操"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\278-笠.jpg",
+        "text_data": "关云长义释曹操"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\278-郑.jpg",
+        "text_data": "不释危难思恩知义"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\278.jpg",
+        "text_data": "华容道"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\28-余.jpg",
+        "text_data": "曹操陈宫见吕伯奢"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\28-刘.jpg",
+        "text_data": "曹操陈宫见伯奢"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\28-叶.jpg",
+        "text_data": "曹操陈宫见吕伯奢"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\28-种.jpg",
+        "text_data": "曹操陈宫见吕伯奢"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\28-郑.jpg",
+        "text_data": "曹操陈宫见吕伯奢"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\28.jpg",
+        "text_data": "曹宫奔投吕伯奢"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\284-周.jpg",
+        "text_data": "曹仁大战东吴兵"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\284-李.jpg",
+        "text_data": "周瑜南郡战曹仁"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\284-笠.jpg",
+        "text_data": "周瑜南郡战曹仁"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\284.jpg",
+        "text_data": "周瑜中箭"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\285-周.jpg",
+        "text_data": "孔明一气周公瑾"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\285-李.jpg",
+        "text_data": "诸葛亮一气周瑜"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\285.jpg",
+        "text_data": "子龙袭南郡"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\291-叶.jpg",
+        "text_data": "赵子龙智取桂阳"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\291-周.jpg",
+        "text_data": "赵子龙计取桂阳"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\291-李.jpg",
+        "text_data": "赵子龙智取桂阳"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\291-笠.jpg",
+        "text_data": "赵子龙智取桂阳"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\291-郑.jpg",
+        "text_data": "赵应将招配赵云不允"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\298-周.jpg",
+        "text_data": "刘皇叔洞房续佳偶"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\298-遗.jpg",
+        "text_data": "刘孙成亲"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\298-李.jpg",
+        "text_data": "刘玄德娶孙夫人"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\298-笠.jpg",
+        "text_data": "刘玄德娶孙夫人"
+    },
+      {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\298-刘.jpg",
+        "text_data": "备与孙夫人毕□"
+      },
+      {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\298-荣.jpg",
+        "text_data": "玄德与孙夫人成亲"
+      },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\300-周.jpg",
+        "text_data": "锦囊计赵云救主"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\300-李.jpg",
+        "text_data": "锦囊计赵云救主"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\309-叶.jpg",
+        "text_data": "孔明祭周瑜"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\309-周.jpg",
+        "text_data": "诸葛亮大哭周瑜"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\309-朱.jpg",
+        "text_data": "孔明祭奠周公瑾"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\309-李.jpg",
+        "text_data": "诸葛亮大哭周瑜"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\309-笠.jpg",
+        "text_data": "诸葛亮大哭周瑜"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\309-郑.jpg",
+        "text_data": "瑜打黄盖，众官告免"
+    },
+      {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\309-刘.jpg",
+        "text_data": "孔明祭奠周公瑾"
+      },
+      {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\309-荣.jpg",
+        "text_data": "孔明设祭哭奠周瑜"
+      },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\312-周.jpg",
+        "text_data": "耒阳县凤雏理事"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\312-遗.jpg",
+        "text_data": "庞统耒阳县"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\312-朱.jpg",
+        "text_data": "庞士元醉见张飞"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\312-李.jpg",
+        "text_data": "耒阳张飞荐凤雏"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\312-笠.jpg",
+        "text_data": "耒阳张飞荐凤雏"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\312-郑.jpg",
+        "text_data": "曹斩泽正言而对"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\312-刘.jpg",
+        "text_data": "庞士元醉见张飞"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\312-荣.jpg",
+        "text_data": "张飞来（耒）阳县察庞统"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\313-叶.jpg",
+        "text_data": "马超韩遂征伐曹操"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\313-周.jpg",
+        "text_data": "马超兴兵取潼关"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\313-李.jpg",
+        "text_data": "马超兴兵取潼关"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\313-笠.jpg",
+        "text_data": "马超兴兵取潼关"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\313-郑.jpg",
+        "text_data": "干引庞统入见曹操"
+    },
+  {
+    "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\313-刘.jpg",
+    "text_data": "钟繇败入长安城"
+  },
+  {
+    "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\313-刘1.jpg",
+    "text_data": "钟繇败入长安城"
+  },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\321-朱.jpg",
+        "text_data": "曹操脱袍割须而走"
+    },
+  {
+    "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\321-郑.jpg",
+    "text_data": "孔明登坛祈风破曹"
+  },
+  {
+    "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\321-刘.jpg",
+    "text_data": "超赶操割须弃袍"
+  },
+  {
+    "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\321-荣.jpg",
+    "text_data": "马超追操绕树而走"
+  },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\321-遗.jpg",
+        "text_data": "马超赶曹操"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\321.jpg",
+        "text_data": "（操绕树走避马超/马超追操绕树而走）"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\322-李.jpg",
+        "text_data": "马孟起渭桥大战"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\322-笠.jpg",
+        "text_data": "马孟起渭桥大战"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\343-叶.jpg",
+        "text_data": "子龙奔取阿斗"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\343-遗.jpg",
+        "text_data": "赵云夺阿斗"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\343-周.jpg",
+        "text_data": "赵云截江夺阿斗"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\343-朱.jpg",
+        "text_data": "赵云舟中夺阿斗"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\343-郑.jpg",
+        "text_data": "子龙奔取阿斗"
+    },
+  {
+    "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\355-周.jpg",
+    "text_data": "落凤坡箭射庞统"
+  },
+  {
+    "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\355-李.jpg",
+    "text_data": "落凤坡箭射庞统"
+  },
+  {
+    "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\355-笠.jpg",
+    "text_data": "落凤坡射死庞统"
+  },
+  {
+    "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\355-刘.jpg",
+    "text_data": "落凤坡箭射士元"
+  },
+  {
+    "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\355-荣.jpg",
+    "text_data": "张任乱箭射死庞统"
+  },
+  {
+    "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\355-忠.jpg",
+    "text_data": "庞统死落凤坡"
+  },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\36-余1.jpg",
+        "text_data": "张飞大战吕布平交，虎牢关三战吕布"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\36-余2.jpg",
+        "text_data": "张飞大战吕布平交，虎牢关三战吕布"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\36-刘.jpg",
+        "text_data": "张飞吕布平交战，虎牢关三战吕布"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\36-刘2.jpg",
+        "text_data": "张飞吕布平交战，虎牢关三战吕布"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\36-叶1.jpg",
+        "text_data": "张飞吕布"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\36-叶2.jpg",
+        "text_data": "张飞吕布"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\36-周.jpg",
+        "text_data": "虎牢关三战吕布"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\36-朱1.jpg",
+        "text_data": "刘关张战吕布，吕布战败闭关"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\36-朱2.jpg",
+        "text_data": "刘关张战吕布，吕布战败闭关"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\36-李.jpg",
+        "text_data": "虎牢关三战吕布"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\36-种1.jpg",
+        "text_data": "张翼德酣战吕奉先，虎牢关前三战吕布"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\36-种2.jpg",
+        "text_data": "张翼德酣战吕奉先，虎牢关前三战吕布"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\36-笠.jpg",
+        "text_data": "虎牢关三战吕布"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\36-荣.jpg",
+        "text_data": "刘备关张三战吕布"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\36-郑1.jpg",
+        "text_data": "张飞挺矛吕布交战，虎牢关三战吕布"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\36-郑2.jpg",
+        "text_data": "张飞挺矛吕布交战，虎牢关三战吕布"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\36-魏.jpg",
+        "text_data": "刘备关张三战吕布"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\36.jpg",
+        "text_data": "破关兵三战吕布"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\43-刘.jpg",
+        "text_data": "孙坚被乱箭射死"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\43-叶.jpg",
+        "text_data": "孙坚被箭伤重身死"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\43-周.jpg",
+        "text_data": "孙坚跨江战刘表"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\43-忠.jpg",
+        "text_data": "孙坚被射死"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\43-李.jpg",
+        "text_data": "孙坚跨江战刘表"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\43-笠.jpg",
+        "text_data": "孙坚跨江战刘表"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\43-荣.jpg",
+        "text_data": "伏兵乱箭射死孙坚"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\43-郑.jpg",
+        "text_data": "孙坚被箭伤重身死"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\43-魏.jpg",
+        "text_data": "伏兵乱箭射死孙坚"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\43.jpg",
+        "text_data": "孙坚跨江中箭"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\47-余.jpg",
+        "text_data": "凤仪亭吕布戏貂蝉，董卓嗔赶吕布奔逃"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\47-余1.jpg",
+        "text_data": "凤仪亭吕布戏貂蝉，董卓嗔赶吕布奔逃"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\47-刘1.jpg",
+        "text_data": "凤仪亭布戏貂蝉，**布与貂蝉私定计"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\47-刘2.jpg",
+        "text_data": "凤仪亭布戏貂蝉，**布与貂蝉私定计"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\47-叶1.jpg",
+        "text_data": "貂蝉复见吕布，董卓嗔赶吕布奔逃"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\47-叶2.jpg",
+        "text_data": "貂蝉复见吕布，董卓嗔赶吕布奔逃"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\47-周.jpg",
+        "text_data": "凤仪亭布戏貂蝉"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\47-忠1.jpg",
+        "text_data": "吕布入*貂蝉，董卓赶走吕布"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\47-忠2.jpg",
+        "text_data": "吕布入*貂蝉，董卓赶走吕布"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\47-朱.jpg",
+        "text_data": "凤仪亭戏貂蝉"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\47-李.jpg",
+        "text_data": "凤仪亭布戏貂蝉"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\47-笠.jpg",
+        "text_data": "凤仪亭布戏貂蝉"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\47-荣.jpg",
+        "text_data": "吕布凤仪亭戏貂蝉"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\47-郑1.jpg",
+        "text_data": "吕布凤仪亭戏貂蝉，董卓怒赶吕布奔逃"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\47-郑2.jpg",
+        "text_data": "吕布凤仪亭戏貂蝉，董卓怒赶吕布奔逃"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\47-魏.jpg",
+        "text_data": "吕布凤仪亭戏貂蝉"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\47.jpg",
+        "text_data": "董太师大闹凤仪亭"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\48-余.jpg",
+        "text_data": "哄卓即位吕布搠死"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\48-刘.jpg",
+        "text_data": "董卓入殿布搠死"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\48-叶.jpg",
+        "text_data": "哄卓即位吕布搠死"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\48-忠.jpg",
+        "text_data": "吕布刺死董卓"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\48-郑.jpg",
+        "text_data": "哄卓即位吕布搠死"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\51-余.jpg",
+        "text_data": "马超战杀王方落马"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\51-叶.jpg",
+        "text_data": "马超战杀王方吕蒙"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\51-朱.jpg",
+        "text_data": "马超奋追二将"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\51-荣.jpg",
+        "text_data": "马超刺死李蒙王方"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\51-郑.jpg",
+        "text_data": "马超战杀王方李蒙"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\51.jpg",
+        "text_data": "马超大战救李蒙"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\55-余.jpg",
+        "text_data": "曹操起兵与父报仇，陶谦见操言和不听"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\55-荣.jpg",
+        "text_data": "曹操点军去报父仇"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\55.jpg",
+        "text_data": "报父仇曹操兴师，曹操兴师攻徐州"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\56-余.jpg",
+        "text_data": "曹操起兵与父报仇，陶谦见操言和不听"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\56-刘.jpg",
+        "text_data": "曹操起兵报父仇"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\56-叶1.jpg",
+        "text_data": "曹操起兵与父报仇，陶谦见操言和"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\56-叶2.jpg",
+        "text_data": "曹操起兵与父报仇，陶谦见操言和"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\56-周.jpg",
+        "text_data": "曹操兴兵报父仇"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\56-李.jpg",
+        "text_data": "曹操兴兵报父仇"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\56-笠.jpg",
+        "text_data": "曹操兴兵报父仇"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\56-郑1.jpg",
+        "text_data": "曹操起兵与父报仇，陶谦见操言明此事"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\56-郑2.jpg",
+        "text_data": "曹操起兵与父报仇，陶谦见操言明此事"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\56-魏.jpg",
+        "text_data": "曹操军往徐州报仇"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\56.jpg",
+        "text_data": "报父仇曹操兴师，曹操兴师攻徐州"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\6.jpg",
+        "text_data": "破黄巾英雄首立功"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\66-周.jpg",
+        "text_data": "陶恭祖三让徐州"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\66-李.jpg",
+        "text_data": "陶恭祖三让徐州"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\66-笠.jpg",
+        "text_data": "陶恭祖三让徐州"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\66.jpg",
+        "text_data": "陶谦三让徐州城"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\69-余.jpg",
+        "text_data": "吕布战输奔往定陶"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\69-汤.png",
+        "text_data": "吕布败走，路逢陈宫"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\69-刘.jpg",
+        "text_data": "吕布战输奔定陶"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\69-周.jpg",
+        "text_data": "曹操定陶破吕布"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\69-朱.jpg",
+        "text_data": "吕布败走定陶"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\69-李.jpg",
+        "text_data": "曹操定陶破吕布"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\69-笠.jpg",
+        "text_data": "曹操定陶破吕布"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\69-荣.jpg",
+        "text_data": "吕布战输奔往定陶"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\69-郑.jpg",
+        "text_data": "吕布败奔定陶"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\69-魏.jpg",
+        "text_data": "吕布败走路逢陈宫"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\7-余1.jpg",
+        "text_data": "张飞刺杀邓茂落马；玄德战退贼众大败；关羽大战张角战败"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\7-余2.jpg",
+        "text_data": "张飞刺杀邓茂落马；玄德战退贼众大败；关羽大战张角战败"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\7-余3.jpg",
+        "text_data": "张飞刺杀邓茂落马；玄德战退贼众大败；关羽大战张角战败"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\7-刘.jpg",
+        "text_data": "关羽战胜张角败"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\7-叶1.jpg",
+        "text_data": "张飞杀邓茂落马身亡；玄德战退贼众大败；关羽大战张角战败"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\7-叶2.jpg",
+        "text_data": "张飞杀邓茂落马身亡；玄德战退贼众大败；关羽大战张角战败"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\7-叶3.jpg",
+        "text_data": "张飞杀邓茂落马身亡；玄德战退贼众大败；关羽大战张角战败"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\7-周.jpg",
+        "text_data": "刘玄德斩寇立功"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\7-忠.jpg",
+        "text_data": "关张兵战张宝"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\7-朱.jpg",
+        "text_data": "玄德斩寇立功"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\7-李.jpg",
+        "text_data": "刘玄德斩寇立功"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\7-种1.jpg",
+        "text_data": "张飞刺杀邓茂身亡，玄德大战贼众败走，关羽大战张角战败"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\7-种2.jpg",
+        "text_data": "张飞刺杀邓茂身亡，玄德大战贼众败走，关羽大战张角战败"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\7-笠.jpg",
+        "text_data": "刘玄德斩寇立功"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\7-郑1.jpg",
+        "text_data": "张飞杀死邓茂落马；玄德战退贼众大败；关羽大战张角败走"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\7-郑2.jpg",
+        "text_data": "张飞杀死邓茂落马；玄德战退贼众大败；关羽大战张角败走"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\7-郑3.jpg",
+        "text_data": "张飞杀死邓茂落马；玄德战退贼众大败；关羽大战张角败走"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\7.jpg",
+        "text_data": "破黄巾英雄首立功"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\72-余.jpg",
+        "text_data": "李傕郭汜併言对阵"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\72-刘.jpg",
+        "text_data": "李傕郭汜併言对阵"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\72-叶.jpg",
+        "text_data": "李傕郭汜併言对阵"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\72-周.jpg",
+        "text_data": "李傕郭汜乱长安"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\72-朱.jpg",
+        "text_data": "李傕郭汜争驾"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\72-李.jpg",
+        "text_data": "李傕郭汜乱长安"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\72-笠.jpg",
+        "text_data": "李傕郭汜乱长安"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\72-荣.jpg",
+        "text_data": "李傕郭汜争驾交锋"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\72-郑.jpg",
+        "text_data": "李傕郭汜併言对阵"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\72-魏.jpg",
+        "text_data": "李傕郭汜大乱长安"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\72.jpg",
+        "text_data": "李傕郭汜大交兵"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\73-余1.jpg",
+        "text_data": "杨奉徐晃二将保驾，董承领兵具来救驾"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\73-余2.jpg",
+        "text_data": "杨奉徐晃二将保驾，董承领兵具来救驾"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\73-刘.jpg",
+        "text_data": "杨琦董承双保驾"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\73-叶.jpg",
+        "text_data": "杨奉董承战解帝忧"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\73-周.jpg",
+        "text_data": "杨奉董承双救驾"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\73-忠.jpg",
+        "text_data": "董承杨奉救驾"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\73-朱.jpg",
+        "text_data": "奉保驾过陕北"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\73-李.jpg",
+        "text_data": "杨奉董承双救驾"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\73-笠.jpg",
+        "text_data": "杨奉董承双救驾"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\73-荣.jpg",
+        "text_data": "董承杨奉杀贼救驾"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\73-郑1.jpg",
+        "text_data": "杨奉见帝保驾，董承领兵具来救驾"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\73-郑2.jpg",
+        "text_data": "杨奉见帝保驾，董承领兵具来救驾"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\73.jpg",
+        "text_data": "杨奉董承双救驾"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\86-余.jpg",
+        "text_data": "曹豹引布入徐州城"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\86-叶.jpg",
+        "text_data": "曹豹引布入徐州城"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\86-周.jpg",
+        "text_data": "吕布月夜夺徐州"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\86-朱.jpg",
+        "text_data": "吕布夜袭徐州"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\86-李.jpg",
+        "text_data": "吕布月夜夺徐州"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\86-笠.jpg",
+        "text_data": "吕布夜月夺徐州"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\86-郑.jpg",
+        "text_data": "曹豹引布入城"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\86.jpg",
+        "text_data": "吕布乘夜袭徐州"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\88-余.jpg",
+        "text_data": "张飞报兄自失徐州"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\88-叶.jpg",
+        "text_data": "张飞报兄自失徐州"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\88-朱.jpg",
+        "text_data": "张飞拔剑自刎"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\88-荣.jpg",
+        "text_data": "张飞失城哭诉玄德"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\88-郑.jpg",
+        "text_data": "飞失徐州来见玄德"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\88.jpg",
+        "text_data": "张飞醉酒失徐州"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\90-余.jpg",
+        "text_data": "吕布辕门射戟休兵"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\90-刘.jpg",
+        "text_data": "吕温侯辕门射戟"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\90-周.jpg",
+        "text_data": "吕奉先辕门射戟"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\90-忠.jpg",
+        "text_data": "吕布辕门射戟"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\90-朱.jpg",
+        "text_data": "吕布辕门射戟"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\90-李.jpg",
+        "text_data": "吕奉先辕门射戟"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\90-笠.jpg",
+        "text_data": "吕奉先辕门射戟"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\90-郑.jpg",
+        "text_data": "吕布辕门射戟"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\90.jpg",
+        "text_data": "吕奉先辕门射戟"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\98-周.jpg",
+        "text_data": "孙策大战严白虎"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\98-李.jpg",
+        "text_data": "孙策大战严白虎"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\98-笠.jpg",
+        "text_data": "孙策大战严白虎"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\98.jpg",
+        "text_data": "孙伯符大战严白虎"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\125-余.jpg",
+        "text_data": "云长活捉王忠过马，张飞捉刘岱见玄德"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\125-刘.jpg",
+        "text_data": "关公出阵生擒王忠，张飞捉刘岱见玄德"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\125-叶.jpg",
+        "text_data": "羽*王忠回徐州，玄德命飞捉刘岱"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\125-忠.jpg",
+        "text_data": "关云长生擒王忠，张飞捉岱见玄德"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\125-朱.jpg",
+        "text_data": "关羽活擒王忠，张飞活擒刘岱"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\125-荣.jpg",
+        "text_data": "关公出阵生擒王忠，张飞捉刘岱见玄德"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\125-郑.jpg",
+        "text_data": "云长活捉王忠过马"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\126-余.jpg",
+        "text_data": "云长活捉王忠过马，张飞捉刘岱见玄德"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\126-刘.jpg",
+        "text_data": "关公出阵生擒王忠，张飞捉刘岱见玄德"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\126-叶.jpg",
+        "text_data": "羽*王忠回徐州，玄德命飞捉刘岱"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\126-周.jpg",
+        "text_data": "关张擒刘岱王忠"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\126-朱.jpg",
+        "text_data": "关羽活擒王忠，张飞活擒刘岱"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\126-李.jpg",
+        "text_data": "关张擒刘岱王忠"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\126-笠.jpg",
+        "text_data": "关张擒刘岱王忠"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\126-荣.jpg",
+        "text_data": "关公出阵生擒王忠，张飞捉刘岱见玄德"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\338-周.jpg",
+        "text_data": "庞统献策取西川"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\338-遗.jpg",
+        "text_data": "王累倒挂城门"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\338-叶.jpg",
+        "text_data": "王累吊自立谏不听撞死"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\338-朱.jpg",
+        "text_data": "王累吊城门谏璋"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\338-郑.jpg",
+        "text_data": "礼下望甦饶人活命"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\338.jpg",
+        "text_data": "玄德入川刘璋出城楼"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\64-余.jpg",
+        "text_data": "典韦战布救操回寨，曹操罢战回兵"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\64-郑.jpg",
+        "text_data": "典韦战布救操回寨，曹操罢战回兵"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\64-魏.jpg",
+        "text_data": "典韦救曹操出重围"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\64.jpg",
+        "text_data": "曹孟德濮阳遇吕布"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\65-余.jpg",
+        "text_data": "典韦战布救操回寨，曹操罢战回兵"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\65-周.jpg",
+        "text_data": "吕温侯濮阳大战"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\65-李.jpg",
+        "text_data": "吕布濮阳大战"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\65-笠.jpg",
+        "text_data": "吕布濮阳大战"
+    },
+    {
+        "image_data": "D:\\google\\SimCLR-master\\SimCLR-master\\datasets\\壁画(微调)\\图\\65-郑.jpg",
+        "text_data": "典韦战布救操回寨，曹操罢战回兵"
+    }
+]
